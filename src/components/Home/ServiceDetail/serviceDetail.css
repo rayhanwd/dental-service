@@ -1,0 +1,20 @@
+.service{
+    background-color: #fff;
+    border-radius: 12px;
+}
+.service:hover {
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15)!important;
+}
+
+.service-icon img {
+    background: #25E6C8;
+    border-radius: 50%;
+    padding: 30px;
+    margin-bottom: 15px;
+    margin: 20px;
+}
+
+
+.service-icon img:hover, .service-icon img:focus, .service-icon img:active {
+    background: #2BAAEC;
+}
